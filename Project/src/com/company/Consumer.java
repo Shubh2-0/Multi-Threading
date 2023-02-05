@@ -26,7 +26,7 @@ public Consumer(Company c) {
 		
 //		this thread execution sleep for 1 second 
 		try {
-			Thread.sleep(6000);
+			Thread.sleep(1000);
 		} catch (InterruptedException e) {
 			
 		}
