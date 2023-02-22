@@ -7,10 +7,12 @@ The process of executing multiple tasks (also called threads) simultaneously is 
 
 # What is Multitasking ?
 
-It is the way of executing multiple tasks at a time executing them concurrently over a specified period. Multitasking is done in two ways. These are:
+It is the way of executing multiple tasks at a time executing them concurrently over a specified period. Multitasking is done in two ways\
+
+These are:-
 
 1.Process-based multitasking: It is also called multiprocessing where each process has its address in memory, i.e., each process allocates separate memory area\
-2.Thread-based multitasking: This thread-based multitasking is also termed as multithreading where threads share the same address space\
+2.Thread-based multitasking: This thread-based multitasking is also termed as multithreading where threads share the same address spac
 
 
 # Life Cycle of a Thread
