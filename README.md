@@ -1,4 +1,4 @@
-# Multi-Threading
+# Multi-Threading 🔄️
 
 Unlike many other programming languages, Java provides built-in support for multithreaded programming. Multithreaded programming contains two or more parts that can run concurrently. Each piece of such a program is called a thread, and each thread defines a separate path of execution. Thus multithreading can be said as a particular version of multitasking.
 
@@ -7,15 +7,15 @@ The process of executing multiple tasks (also called threads) simultaneously is 
 
 # What is Multitasking ?
 
-It is the way of executing multiple tasks at a time executing them concurrently over a specified period. Multitasking is done in two ways\
+It is the way of executing multiple tasks at a time executing them concurrently over a specified period. Multitasking is done in two ways.
 
-These are:-
+**These are:-**
 
-1.Process-based multitasking: It is also called multiprocessing where each process has its address in memory, i.e., each process allocates separate memory area\
-2.Thread-based multitasking: This thread-based multitasking is also termed as multithreading where threads share the same address spac
+1️⃣ Process-based multitasking: It is also called multiprocessing where each process has its address in memory, i.e., each process allocates separate memory area.\
+2️⃣ Thread-based multitasking: This thread-based multitasking is also termed as multithreading where threads share the same address spac.
 
 
-# Life Cycle of a Thread
+# Life Cycle of a Thread 🧬
 
 A thread goes through various stages of its life cycle. Example, first of all, a thread is born, started its tasks, run a sequence of tasks concurrently, and then dies. Here is the diagram of the various stages of a life cycle.
 
