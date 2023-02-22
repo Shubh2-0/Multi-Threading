@@ -5,7 +5,7 @@ Unlike many other programming languages, Java provides built-in support for mult
 # What is Multithreading ?
 The process of executing multiple tasks (also called threads) simultaneously is called multithreading. The primary purpose of multithreading is to provide simultaneous execution of two or more parts of a program to make maximum use of CPU time. A multithreaded program contains two or more parts that can run concurrently. It enables programmers to write in a way where multiple activities can proceed simultaneously within a single application.
 
-# What is Multitasking
+# What is Multitasking ?
 
 It is the way of executing multiple tasks at a time executing them concurrently over a specified period. Multitasking is done in two ways. These are:
 
